@@ -1,0 +1,8 @@
+opencv-python
+pandas
+numpy
+scipy
+tqdm
+tflearn
+tifffile
+
