@@ -2,7 +2,9 @@ opencv-python
 pandas
 numpy
 scipy
+scikit-image
 tqdm
+tensorflow-gpu>1.0
 tflearn
 tifffile
 
