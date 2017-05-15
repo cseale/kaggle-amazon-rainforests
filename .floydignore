@@ -1,3 +1,4 @@
+training_images.npy
 
 # Directories to ignore when uploading code to floyd
 # Do not add a trailing slash for directories
