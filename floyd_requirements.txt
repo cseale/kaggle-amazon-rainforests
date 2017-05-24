@@ -7,4 +7,4 @@ tqdm
 tensorflow-gpu>1.0
 tflearn
 tifffile
-
+keras==2.0.4
